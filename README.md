@@ -1,16 +1,24 @@
-# allswell
+# Theme
 
-A new Flutter project.
+Digital transformation for social change
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# ALLsWELL
 
-A few resources to get you started if this is your first Flutter project:
+A health and wellness app to balance out work-life balance.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Problem Statement 
+Mobile app where individuals can track goals, moods and such lifestyle activities. They can also monitor their thoughts by maintaining journals,
+meditation and analysis of their activities or productivity.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# UI Interface Design
+
+
+
+
+# Contributions of each member
+
+Anamika, Haritha and Devika TV worked on the Flutter Application\
+Devika Rajeev worked on the Walkthrough video\
+Afreen worked on the front-end UI designing
+
